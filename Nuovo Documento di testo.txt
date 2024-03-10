@@ -1,0 +1,11 @@
+- https://arxiv.org/pdf/2309.01029.pdf
+
+- http://www.di.uniba.it/~swap/xai-it/
+
+- https://beyondaccuracy-userprofiling.github.io/xai-it-2023/
+
+- https://www.sciencedirect.com/science/article/pii/S1566253521000178
+
+- https://www.sciencedirect.com/science/article/pii/S0950705123000230
+
+- https://scholar.google.it/scholar?hl=it&as_sdt=0%2C5&q=explanable+artificial+intelligence+survey&btnG=

@@ -1,0 +1,21 @@
+Analisi letteratura statistiche road accident (capitolo stato dell'arte)
+
+Analisi esplorative feature
+feature analysis
+correlazione delle feature,
+clustering.
+
+
+classificazione della base dei punti sulla base della severità,morti sulla mappa 
+
+Capire i momenti più complicati, gli orari.
+
+Algoritmi di machine learning
+
+predizione del rischio 
+
+predizione/classificazione 
+
+explainability 
+
+ 

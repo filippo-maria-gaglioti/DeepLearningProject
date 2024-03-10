@@ -1,0 +1,5 @@
+https://medium.com/@sakakaosarat106/exploratory-data-analysis-on-road-accidents-dc530e62964c
+
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
+
+https://www.researchgate.net/publication/360661929_Predicting_and_explaining_severity_of_road_accident_using_artificial_intelligence_techniques_SHAP_and_feature_analysis
